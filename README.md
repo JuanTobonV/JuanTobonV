@@ -4,10 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm Juan José Tobón Villa, a full-stack software developer studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.  
-  
-
-<br/>  
+I'm Juan José Tobón Villa, a full-stack software developer studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.    
 
 
 ## Work Experience  
