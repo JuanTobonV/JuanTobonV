@@ -11,34 +11,18 @@ I'm Juan José Tobón Villa, a full-stack software developer studying System's E
 
 
 ## Work Experience  
-<table><tr><td valign="top" width="50%">
-
 - Software Developer | SURA/SURAMERICANA | (JUN 22 2024 - DEC 16 2025)
    
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
 
 ## Education  
-<table><tr><td valign="top" width="50%">
-
 - System's engineering and informatics | Universidad nacional de Colombia 
 
 -Software Development Technician | CESDE  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
