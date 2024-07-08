@@ -21,7 +21,7 @@ I'm Juan José Tobón Villa, a full-stack software developer studying System's E
 ## Education  
 - System's engineering and informatics | Universidad nacional de Colombia 
 
--Software Development Technician | CESDE  
+- Software Development Technician | CESDE  
   
 
 <br/>  
