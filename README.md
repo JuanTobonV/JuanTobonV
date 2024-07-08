@@ -41,15 +41,7 @@ I'm Juan José Tobón Villa, a full-stack software developer studying System's E
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTobonV&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTobonV&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
