@@ -7,7 +7,7 @@
 I'm Juan, full-stack software developer studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.    
 
 ## Work Experience  
-- Software Developer | SURA/SURAMERICANA | (JUN 22 2024 - DEC 22 2025)
+- Software Developer | SURA/SURAMERICANA | JUN 22 2024
 
 ## Education  
 - System's engineering and informatics | Universidad nacional de Colombia 
