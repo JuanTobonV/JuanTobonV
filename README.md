@@ -35,7 +35,7 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 </p>
 
 <br/>  
-
+---
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanTobonV&style=for-the-badge&color=orange" alt=""/>
 </div>
