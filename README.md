@@ -27,8 +27,9 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 
 ## Certificates  
 - Platzi: [Take a look!](https://drive.google.com/drive/folders/1HLDrQTFnEyAUVLwvQQl_eY138ILmCu2x?usp=sharing)
+  <br/>
 
-<br />
+
 ---
 
 <p align="center">
