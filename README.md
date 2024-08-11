@@ -12,7 +12,10 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 ## Education  
 - System's engineering and informatics | Universidad nacional de Colombia 
 
-- Software Development Technician | CESDE    
+- Software Development Technician | CESDE
+
+## Projects
+- UnStudy - Educational platform for students of the Universidad Nacional de Colombia.
 
 
 ## Languages and Tools  
