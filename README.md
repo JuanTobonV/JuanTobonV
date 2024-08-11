@@ -15,9 +15,9 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 - Software Development Technician | CESDE
 
 ## Projects
-- ## UnStudy - Educational platform for students of the Universidad Nacional de Colombia.
+- UnStudy - Educational platform for students of the Universidad Nacional de Colombia.
   [Take a look!](https://thomasmolina19.github.io/UTV1/index.html)
-  <br/>
+ 
 
 
 ## Languages and Tools  
