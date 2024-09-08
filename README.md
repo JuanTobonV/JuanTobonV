@@ -10,7 +10,7 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 - Software Developer | SURA/SURAMERICANA | JUN 22 2024 / Nowadays
 
 ## Education  
-- System's engineering and informatics | Universidad nacional de Colombia 
+- System's engineering and informatics | Universidad Nacional de Colombia 
 
 - Software Development Technician | CESDE
 
