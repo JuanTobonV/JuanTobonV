@@ -70,7 +70,7 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
   <img src="https://komarev.com/ghpvc/?username=JuanTobonV&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<div align="center" style="padding-top: 20px;">
+<div align="center" style="padding-top: 1000px">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=001eff&bar_color_cover=false" alt="Spotify Profile"/>
   </a>
