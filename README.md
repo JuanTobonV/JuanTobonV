@@ -48,7 +48,8 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 
 ## Certificates  
@@ -69,8 +70,13 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
   <img src="https://komarev.com/ghpvc/?username=JuanTobonV&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<td align="center>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=001eff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&redirect=true)
+  
+</td>
+
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
