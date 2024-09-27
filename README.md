@@ -70,7 +70,7 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 </div>
 
 <div align = "center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4e59b1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&redirect=true)
 </div>
 
 <p align="center">
