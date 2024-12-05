@@ -17,6 +17,7 @@ Welcome to my github profile, I'm a full-stack software developer studying Syste
 ## Projects
 - UnStudy - Educational platform for students of the Universidad Nacional de Colombia (Working on it). [Take a look!](https://unstudy.netlify.app/)
 - FMJuanV - Webpage created to upload all the solutions I made of the Frontend Mentor challenges. [Take a look!](https://fmjuanv.netlify.app/)
+- GuitarLA - Project created to practice React with typescript. [Take a look!](https://guitarlashopping.netlify.app/)
 
  
 
