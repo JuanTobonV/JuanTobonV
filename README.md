@@ -78,6 +78,7 @@ Welcome to my github profile, I'm a full-stack software developer studying Syste
   <img src="https://komarev.com/ghpvc/?username=JuanTobonV&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22w5aqmoynkiomrwilnzi5f2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=001eff&bar_color_cover=false" alt="Spotify Profile"/>
