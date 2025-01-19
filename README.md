@@ -54,6 +54,13 @@ Welcome to my github profile, I'm a full-stack software developer studying Syste
 
 </div>
 
+### Cloud Computing & DevOps
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="62" height="62">
+
+</div>
+
+
 </td>
 <td valign="top" width="33%">
 
