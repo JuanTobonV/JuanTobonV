@@ -24,13 +24,13 @@ Welcome to my github profile, I'm a full-stack software developer studying Syste
 
 ## Languages and Tools  
 
-### Lenguajes de Programación
+### Programming languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="62" height="62">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="62" height="62">
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> </p>
 
-### Frameworks y Herramientas
+### Frameworks
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="62" height="62">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="62" height="62">
@@ -43,9 +43,11 @@ Welcome to my github profile, I'm a full-stack software developer studying Syste
 
 </div>
 
-### Cloud Computing & DevOps
+### Tools
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="62" height="62">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Docker" width="62" height="62">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="62" height="62"/>
 
 </div>
 
