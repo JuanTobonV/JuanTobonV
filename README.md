@@ -82,11 +82,9 @@ Welcome to my github profile, I'm a full-stack software developer and AI enthusi
 </div>
 
 
+<img src="https://raw.githubusercontent.com/juantobonv/juantobonv/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
+###
   
 
 <br/>  
