@@ -15,7 +15,9 @@ Welcome to my github profile, I'm a full-stack software developer and AI enthusi
 - Software Development Technician | CESDE
 
 ## Projects
-- Employee Policies and Benefits Manager: Developed as the integrative project for the entire elective component of the Software Development Technician program.
+- Employee Policies and Benefits Manager: Developed as the integrative project for the entire elective component of the Software Development Technician program. [Take a look](https://github.com/JuanTobonV/Policy_Benefits-Manager)
+- Inventory manager: System I developed to optimize inventory and sales management in a liquor store in my city. [Take a look](https://www.linkedin.com/posts/juantobonv_fullstack-react-springboot-activity-7323194179927355392-egqa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn01NMBBSeqcr7Ckg6QCDbMoxUahKYuBQE)
+- Local auto workshop chatbot: Intelligent chatbot system I built to automate appointment scheduling and focused on natural conversation. [Take a look](https://www.linkedin.com/posts/juantobonv_python-fastapi-celery-activity-7345313787580760064--hRP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn01NMBBSeqcr7Ckg6QCDbMoxUahKYuBQE)
 - FMJuanV - Webpage created to upload all the solutions I made of the Frontend Mentor challenges. [Take a look!](https://fmjuanv.netlify.app/)
 - GuitarLA - Project created to practice React with typescript. [Take a look!](https://guitarlashopping.netlify.app/)
 
