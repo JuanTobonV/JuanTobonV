@@ -7,7 +7,8 @@
 Welcome to my github profile, I'm a full-stack software developer and AI enthusiast studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.    
 
 ## Work Experience  
-- Software Developer | SURA/SURAMERICANA | JUN 22 2024 / Nowadays
+- Software Developer | SURA/SURAMERICANA | JUN 22 2024 / DEC 19 2025
+- Freelance backend developer | Kyntegro | DEC 19 2025 / NOWADAYS
 
 ## Education  
 - System's engineering and informatics | Universidad Nacional de Colombia 
