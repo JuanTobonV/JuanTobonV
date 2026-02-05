@@ -8,7 +8,7 @@ Welcome to my github profile, I'm a full-stack software developer and AI enthusi
 
 ## Work Experience  
 - Software Developer | SURA/SURAMERICANA | JUN 22 2024 / DEC 19 2025
-  - Backend Java developer | Kyntegro | DEC 19 2025 / NOWADAYS
+- Backend Java developer | Kyntegro | DEC 19 2025 / NOWADAYS
 
 ## Education  
 - System's engineering and informatics | Universidad Nacional de Colombia 
